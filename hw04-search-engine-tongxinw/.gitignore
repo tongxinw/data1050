@@ -1,0 +1,11 @@
+*
+
+!.flake8
+!.gitignore
+!*.xml
+!*.py
+!*.md
+!*.txt
+!**/*.py
+!**/*.xml
+!**/*.txt

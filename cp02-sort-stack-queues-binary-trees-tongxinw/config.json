@@ -1,0 +1,4 @@
+{
+    "timeoutSeconds": 1,
+    "numFailedTestsBeforeStop": 5
+}

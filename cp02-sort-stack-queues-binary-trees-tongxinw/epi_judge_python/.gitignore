@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!stencil
+!test_framework
+!cp*
+!**/*.py
+!**/*.ipynb
+!**/*.txt
+!**/*.md
+

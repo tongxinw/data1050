@@ -1,0 +1,11 @@
+*
+
+!*.gitignore
+!*.tex
+!*.pdf
+!*.py
+!*.ipynb
+!*.md
+!*.png
+!*.jpg
+

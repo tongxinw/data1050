@@ -1,0 +1,12 @@
+<xml>
+    <page>
+        <title>Title 1</title>
+        <id>1</id>
+        <text>[[Title 2]] Stemming removes lots of nois' </text>
+    </page>
+    <page>
+        <title>Title 2</title>
+        <id>2</id>
+        <text>[[This is a Loop!|Title 1]]</text>
+    </page>
+</xml>
