@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!epi_judge_python
+!test_data
+!config.json
